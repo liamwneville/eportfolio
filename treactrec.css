@@ -1,0 +1,17 @@
+*{}
+nav{display: flex;
+    justify-content: space-between;
+    align-items: center;}
+
+.row{width: 100%;
+max-width: 1200px;
+margin: 0 auto;}
+ul{display: flex;
+    justify-content: flex-end;
+padding-left: 16px;}
+
+li{list-style-type:none;
+    padding-left: 16px;
+}
+a{text-decoration: inherit;
+    color: inherit;}
